@@ -1,0 +1,9 @@
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\bin\Debug\Test02.pdb
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\bin\Debug\Test02Lib.dll
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\bin\Debug\Test02Lib2.dll
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\bin\Debug\Test02Lib2.pdb
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\bin\Debug\Test02Lib.pdb
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\obj\Debug\Test02.csprojResolveAssemblyReference.cache
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\obj\Debug\Test02.pdb
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\bin\Debug\Test02.exe
+c:\Users\lifeware-mauro\documents\visual studio 2015\Projects\Test01\Test02\obj\Debug\Test02.exe
